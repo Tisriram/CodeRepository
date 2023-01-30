@@ -1,6 +1,6 @@
  {
        "mode": "All",
-    "description": "Deny Wildcard entries in storage account CORS",
+    "description": "This policy rule will deny any wildcard entries while adding Resource sharing (CORS) in Storage blob services",
     "metadata": {
       "category": "Storage"
     },
